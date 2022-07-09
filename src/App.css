@@ -1,0 +1,20 @@
+.bod{
+background-color: black;
+}
+
+#netflix{
+color: red;
+font-size: 30px;
+font-weight: bold;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav{
+border-bottom: 1px solid grey;
+}
+
+.cover{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+}
